@@ -129,7 +129,7 @@ Animate Trees					CATEGORY:Special Ability	TYPE:SpecialQuality.TemporaryHolder	D
 Antimagic Field					CATEGORY:Special Ability	TYPE:SpecialQuality.TemporaryHolder	DESC:Temp, replace with real ability. Best, BD.
 Astral Projection					CATEGORY:Special Ability	TYPE:SpecialQuality.TemporaryHolder	DESC:Temp, replace with real ability. Best, BD.
 Aura of Doom					CATEGORY:Special Ability	TYPE:SpecialQuality.TemporaryHolder	DESC:Temp, replace with real ability. Best, BD.
-Blazefire						CATEGORY:Special Ability	TYPE:SpecialQuality.TemporaryHolder	DESC:Temp, replace with real ability. Best, BD.
+Blazefire						CATEGORY:Special Ability	TYPE:SpecialQuality.Supernatural	DESC:Living creatures taking damage from a lavawight’s attack find themselves ignited with blaze-fire; they must succeed at a Fortitude save (DC 35) or permanently lose 4 hit points. The DC is Charisma-based. The opponent must continue to save every round for the next 6 rounds (7 rounds total) to avoid being permanently drained of 4 more hit points each round. The lavawight heals the same amount of damage whenever a creature is drained of hit points, gaining any excess as temporary hit points. These temporary hit points last a maximum of 1 hour. If an opponent is slain by blazefire, only blackened ash remains of the victim. Hit points lost to the blazefire never heal naturally and cannot be magically restored—they are gone for good.
 Blightfire						CATEGORY:Special Ability	TYPE:SpecialQuality.TemporaryHolder	DESC:Temp, replace with real ability. Best, BD.
 Blinding						CATEGORY:Special Ability	TYPE:SpecialQuality.TemporaryHolder	DESC:Temp, replace with real ability. Best, BD.
 Blur							CATEGORY:Special Ability	TYPE:SpecialQuality.TemporaryHolder	DESC:Temp, replace with real ability. Best, BD.
@@ -168,7 +168,7 @@ Extract Brains					CATEGORY:Special Ability	TYPE:SpecialQuality.TemporaryHolder	
 Eye Rays						CATEGORY:Special Ability	TYPE:SpecialQuality.TemporaryHolder	DESC:Temp, replace with real ability. Best, BD.
 Fear Aura						CATEGORY:Special Ability	TYPE:SpecialQuality.TemporaryHolder	DESC:Temp, replace with real ability. Best, BD.
 Fear Gaze						CATEGORY:Special Ability	TYPE:SpecialQuality.TemporaryHolder	DESC:Temp, replace with real ability. Best, BD.
-Fiery Hardness					CATEGORY:Special Ability	TYPE:SpecialQuality.TemporaryHolder	DESC:Temp, replace with real ability. Best, BD.
+Fiery Hardness					CATEGORY:Special Ability	TYPE:SpecialQuality.Extraordinary	DESC:The lavawight’s molten skin provides it with Damage reduction of 10/-.
 Fiery Overrun					CATEGORY:Special Ability	TYPE:SpecialQuality.TemporaryHolder	DESC:Temp, replace with real ability. Best, BD.
 Fiery Touch						CATEGORY:Special Ability	TYPE:SpecialQuality.TemporaryHolder	DESC:Temp, replace with real ability. Best, BD.
 Flight (Ex)						CATEGORY:Special Ability	TYPE:SpecialQuality.TemporaryHolder	DESC:Temp, replace with real ability. Best, BD.
@@ -181,7 +181,7 @@ Gibbering						CATEGORY:Special Ability	TYPE:SpecialQuality.TemporaryHolder	DESC
 Greater Invisibility ~ Force Dragon		CATEGORY:Special Ability	TYPE:SpecialQuality.TemporaryHolder	DESC:Temp, replace with real ability. Best, BD.
 Head Tentacles					CATEGORY:Special Ability	TYPE:SpecialQuality.TemporaryHolder	DESC:Temp, replace with real ability. Best, BD.
 Headloss Resistance				CATEGORY:Special Ability	TYPE:SpecialQuality.TemporaryHolder	DESC:Temp, replace with real ability. Best, BD.
-Heat Aura						CATEGORY:Special Ability	TYPE:SpecialQuality.TemporaryHolder	DESC:Temp, replace with real ability. Best, BD.
+Heat Aura						CATEGORY:Special Ability	TYPE:SpecialQuality.Supernatural	DESC:A 10-foot-radius spread heat aura surrounds a lavawight. All creatures of the fire subtype in the field (including the lavawight) are treated as if having turn resistance +6 (if undead) and fast healing 10. Creatures subject to fire damage take 2d10 points of fire damage each round they remain within the heat aura.
 Hunefer Rot						CATEGORY:Special Ability	TYPE:SpecialQuality.TemporaryHolder	DESC:Temp, replace with real ability. Best, BD.
 Improved Grab					CATEGORY:Special Ability	TYPE:SpecialQuality.TemporaryHolder	DESC:Temp, replace with real ability. Best, BD.
 Keen Senses						CATEGORY:Special Ability	TYPE:SpecialQuality.TemporaryHolder	DESC:Temp, replace with real ability. Best, BD.
@@ -207,7 +207,7 @@ Push							CATEGORY:Special Ability	TYPE:SpecialQuality.TemporaryHolder	DESC:Tem
 Quiescence						CATEGORY:Special Ability	TYPE:SpecialQuality.TemporaryHolder	DESC:Temp, replace with real ability. Best, BD.
 Recognition						CATEGORY:Special Ability	TYPE:SpecialQuality.TemporaryHolder	DESC:Temp, replace with real ability. Best, BD.
 Regeneration					CATEGORY:Special Ability	TYPE:SpecialQuality.TemporaryHolder	DESC:Temp, replace with real ability. Best, BD.
-Rend							CATEGORY:Special Ability	TYPE:SpecialQuality.TemporaryHolder	DESC:Temp, replace with real ability. Best, BD.
+Rend						CATEGORY:Special Ability	TYPE:SpecialQuality.Extraordinary	DESC:If the lavawight hits with both of its claws, it latches onto the opponent's body and tears the flesh. This attack automatically deals an additional 6d8+31 points of damage.
 Rotting Constriction				CATEGORY:Special Ability	TYPE:SpecialQuality.TemporaryHolder	DESC:Temp, replace with real ability. Best, BD.
 Rustproof						CATEGORY:Special Ability	TYPE:SpecialQuality.TemporaryHolder	DESC:Temp, replace with real ability. Best, BD.
 Safekeeping						CATEGORY:Special Ability	TYPE:SpecialQuality.TemporaryHolder	DESC:Temp, replace with real ability. Best, BD.
