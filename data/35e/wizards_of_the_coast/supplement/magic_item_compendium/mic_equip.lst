@@ -498,11 +498,11 @@ Veil of Allure							TYPE:Wondrous.Magic.Group_Clothing.BodySlot_Face.Facewear		
 Vest of the Archmagi						TYPE:Wondrous.Magic.Group_Clothing.BodySlot_Torso.Shirt		COST:200000	WT:2										SOURCELONG:Magic Item Compendium	SOURCESHORT:MIC		SOURCEPAGE:145
 Vest of Defense							TYPE:Wondrous.Magic.Group_Clothing.BodySlot_Torso.Shirt		COST:2000	WT:1										SOURCELONG:Magic Item Compendium	SOURCESHORT:MIC		SOURCEPAGE:146
 Vest of the Master Evoker					TYPE:Wondrous.Magic.Group_Clothing.BodySlot_Torso.Shirt		COST:10000	WT:2										SOURCELONG:Magic Item Compendium	SOURCESHORT:MIC		SOURCEPAGE:146
-Vest of Resistance (+1)						TYPE:Wondrous.Magic.Group_Clothing.BodySlot_Torso.Shirt		COST:1000	WT:1										SOURCELONG:Magic Item Compendium	SOURCESHORT:MIC		SOURCEPAGE:147
-Vest of Resistance (+2)						TYPE:Wondrous.Magic.Group_Clothing.BodySlot_Torso.Shirt		COST:4000	WT:1										SOURCELONG:Magic Item Compendium	SOURCESHORT:MIC		SOURCEPAGE:147
-Vest of Resistance (+3)						TYPE:Wondrous.Magic.Group_Clothing.BodySlot_Torso.Shirt		COST:9000	WT:1										SOURCELONG:Magic Item Compendium	SOURCESHORT:MIC		SOURCEPAGE:147
-Vest of Resistance (+4)						TYPE:Wondrous.Magic.Group_Clothing.BodySlot_Torso.Shirt		COST:16000	WT:1										SOURCELONG:Magic Item Compendium	SOURCESHORT:MIC		SOURCEPAGE:147
-Vest of Resistance (+5)						TYPE:Wondrous.Magic.Group_Clothing.BodySlot_Torso.Shirt		COST:25000	WT:1										SOURCELONG:Magic Item Compendium	SOURCESHORT:MIC		SOURCEPAGE:147
+Vest of Resistance (+1)						TYPE:Wondrous.Magic.Group_Clothing.BodySlot_Torso.Shirt		COST:1000	WT:1									BONUS:SAVE|Fortitude,Reflex,Will|1|TYPE=Resistance	SOURCELONG:Magic Item Compendium	SOURCESHORT:MIC		SOURCEPAGE:147
+Vest of Resistance (+2)						TYPE:Wondrous.Magic.Group_Clothing.BodySlot_Torso.Shirt		COST:4000	WT:1									BONUS:SAVE|Fortitude,Reflex,Will|2|TYPE=Resistance	SOURCELONG:Magic Item Compendium	SOURCESHORT:MIC		SOURCEPAGE:147
+Vest of Resistance (+3)						TYPE:Wondrous.Magic.Group_Clothing.BodySlot_Torso.Shirt		COST:9000	WT:1									BONUS:SAVE|Fortitude,Reflex,Will|3|TYPE=Resistance	SOURCELONG:Magic Item Compendium	SOURCESHORT:MIC		SOURCEPAGE:147
+Vest of Resistance (+4)						TYPE:Wondrous.Magic.Group_Clothing.BodySlot_Torso.Shirt		COST:16000	WT:1									BONUS:SAVE|Fortitude,Reflex,Will|4|TYPE=Resistance	SOURCELONG:Magic Item Compendium	SOURCESHORT:MIC		SOURCEPAGE:147
+Vest of Resistance (+5)						TYPE:Wondrous.Magic.Group_Clothing.BodySlot_Torso.Shirt		COST:25000	WT:1									BONUS:SAVE|Fortitude,Reflex,Will|5|TYPE=Resistance	SOURCELONG:Magic Item Compendium	SOURCESHORT:MIC		SOURCEPAGE:147
 Vestments of Ebonsilk						TYPE:Relic.Wondrous.Magic.Group_Clothing.BodySlot_Torso.Shirt	COST:5000	WT:1										SOURCELONG:Magic Item Compendium	SOURCESHORT:MIC		SOURCEPAGE:147
 Wand Bracelet							TYPE:Wondrous.Magic.Group_Clothing.BodySlot_Arms.Armwear		COST:12000	WT:0										SOURCELONG:Magic Item Compendium	SOURCESHORT:MIC		SOURCEPAGE:147
 War Wizard Cloak							TYPE:Wondrous.Magic.Group_Clothing.BodySlot_Shoulders.Cape		COST:16000	WT:1										SOURCELONG:Magic Item Compendium	SOURCESHORT:MIC		SOURCEPAGE:147
