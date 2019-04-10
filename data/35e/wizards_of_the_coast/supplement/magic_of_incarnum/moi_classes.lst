@@ -183,6 +183,17 @@ CLASS:Sapphire Hierarch	STARTSKILLPTS:2	CSKILL:Concentration|TYPE=Craft|Diplomac
 3	ABILITY:Sapphire Hierarch Class Feature|AUTOMATIC|Sapphire Hierarch ~ Damage Reduction
 5	ABILITY:Sapphire Hierarch Class Feature|AUTOMATIC|Sapphire Hierarch ~ Sapphire Body
 8	ABILITY:Sapphire Hierarch Class Feature|AUTOMATIC|Sapphire Hierarch ~ Timeless Body
+###Block:
+1	ADD:SPELLCASTER|Divine
+2	ADD:SPELLCASTER|Divine
+3	ADD:SPELLCASTER|Divine
+4	ADD:SPELLCASTER|Divine
+5	ADD:SPELLCASTER|Divine
+6	ADD:SPELLCASTER|Divine
+7	ADD:SPELLCASTER|Divine
+8	ADD:SPELLCASTER|Divine
+9	ADD:SPELLCASTER|Divine
+10	ADD:SPELLCASTER|Divine
 ###Block
 11	PREPCLEVEL:MIN=20
 
