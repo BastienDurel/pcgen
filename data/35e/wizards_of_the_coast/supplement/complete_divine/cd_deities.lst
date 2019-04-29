@@ -31,7 +31,7 @@ Tiamat		KEY:Tiamat		DOMAINS:Destruction,Evil,Law,Trickery|PREALIGN:LN,NE,LE	DEIT
 #Rao		KEY:Rao		DOMAINS:Destruction,Evil,Law,Trickery|PREALIGN:LN,NE,LE		DEITYWEAP:Pick (Heavy)|Bite	ALIGN:LG	FACTSET:Pantheon|Base|CD	SOURCEPAGE:p.117	SORTKEY:Gods_a
 #Telchur	KEY:Telchur		DOMAINS:Destruction,Evil,Law,Trickery|PREALIGN:LN,NE,LE		DEITYWEAP:Pick (Heavy)|Bite	ALIGN:CN	FACTSET:Pantheon|Base|CD	SOURCEPAGE:p.117	SORTKEY:Gods_a
 #Tharizdun	KEY:Tharizdun	DOMAINS:Chaos,Destruction,Evil,Force,Madness|PREALIGN:CE,NE,LE,TN		DEITYWEAP:Pick (Heavy)|Bite	ALIGN:NE	FACTSET:Pantheon|Base|CD	SOURCEPAGE:p.117	SORTKEY:Gods_a
-#Trithereon	KEY:Trithereon	DOMAINS:Destruction,Evil,Law,Trickery|PREALIGN:LN,NE,LE		DEITYWEAP:Pick (Heavy)|Bite	ALIGN:CG	FACTSET:Pantheon|Base|CD	SOURCEPAGE:p.117	SORTKEY:Gods_a
+Trithereon	KEY:Trithereon	DOMAINS:Chaos,Good,Liberation,Summoner|PREALIGN:CG,NG,CN		DEITYWEAP:Spear	ALIGN:CG	FACTSET:Pantheon|Base|CD	SOURCEPAGE:p.123	SORTKEY:Gods_a
 #Wastri	KEY:Wastri		DOMAINS:Destruction,Evil,Law,Trickery|PREALIGN:LN,NE,LE		DEITYWEAP:Pick (Heavy)|Bite	ALIGN:LN	FACTSET:Pantheon|Base|CD	SOURCEPAGE:p.117	SORTKEY:Gods_a
 #Xan Yae	KEY:Xan Yae		DOMAINS:Destruction,Evil,Law,Trickery|PREALIGN:LN,NE,LE		DEITYWEAP:Pick (Heavy)|Bite	ALIGN:TN	FACTSET:Pantheon|Base|CD	SOURCEPAGE:p.117	SORTKEY:Gods_a
 #Zuoken	KEY:Zuoken		DOMAINS:Destruction,Evil,Law,Trickery|PREALIGN:LN,NE,LE		DEITYWEAP:Pick (Heavy)|Bite	ALIGN:TN	FACTSET:Pantheon|Base|CD	SOURCEPAGE:p.117	SORTKEY:Gods_a
